@@ -1,5 +1,5 @@
-# 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeziel-nogueira&theme=tokyonight)
+##
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeziel-nogueira&layout=compact)
 #
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -12,3 +12,4 @@
 ![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+##
