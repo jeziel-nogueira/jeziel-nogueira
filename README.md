@@ -1,5 +1,5 @@
 ##
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeziel-nogueira&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeziel-nogueira&layout=compact&langs_count=4)
 #
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
